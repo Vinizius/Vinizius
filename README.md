@@ -2,7 +2,7 @@
 </br>
 
 ### About me
-Hi, I am Vinicius, but you can call me Vini, I am 19 years old, I live in Brazil, I am currently studying Pentesting, I like programming.
+Hi, I am Vinicius, but you can call me Vini, I am 20 years old, I live in Brazil, I am currently studying Pentesting, I like programming.
 
 * 👾 Always trying to evolve
 ----
